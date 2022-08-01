@@ -1,3 +1,12 @@
 # GDP and Life Expectancy
 
-For this project, we'll analyse the gross domestic product (GDP) and life expectancy data from the World Health Organization and World Bank. Our goal is to identify the relationship between the GDP and life expectancy of six countries.
+In this report, we'll be looking at the data on Gross Domestic Product (GDP) and life expectancy from the World Health Organization and World Bank. 
+
+Our goal is to identify the relationship between GDP and life expectancy of selected six countries:
+
+* Chile
+* China
+* Germany
+* Mexico
+* United States of America (U.S.A.)
+* Zimbabwe
